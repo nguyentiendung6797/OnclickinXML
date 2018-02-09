@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">OnclickinXML</string>
+
+    <string name="result">result</string>
+
+    <string name="number_1">number 1</string>
+
+    <string name="number_2">number 2</string>
+
+</resources>
